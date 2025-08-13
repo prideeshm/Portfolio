@@ -48,9 +48,9 @@ Deploy the Portfolio.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-```
-## INDEX.HTML
 
+## INDEX.HTML
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -124,11 +124,11 @@ Upload to GitHub Pages for free hosting.
     </footer>
 </body>
 </html>
-
+```
 
 
 ## STYLE.CSS
-
+```
 html {
     scroll-behavior: smooth;
 }
